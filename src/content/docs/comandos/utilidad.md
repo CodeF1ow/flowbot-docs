@@ -3,17 +3,23 @@ title: 🛠️ Utilidad
 description: Comandos de Utilidad.
 ---
 
-### Configuración Utilidad
+### Configuración de Utilidad
 
-| Slash          | Descripción                                      |
-| -------------- | ------------------------------------------------ |
-| `/bigemoji`  | aumentar el tamaño de un emoji                   |
-| `/covid`     | obtener estadísticas de COVID-19 para un país    |
-| `/github`    | muestra las estadísticas de Github de un usuario |
-| `/help`      | menú de ayuda                                    |
-| `/paste`     | pegar algo en sourceb.in                         |
-| `/pokedex`   | muestra información sobre un pokemon             |
-| `/proxies`   | buscar varios proxies (http, socks4 & socks5)    |
-| `/translate` | traducir de un idioma a otro                     |
-| `/urban`     | buscar en el diccionario urbano                  |
-| `/weather`   | obtener información meteorológica                |
+| Comando             | Descripción                                          |
+| ------------------- | ---------------------------------------------------- |
+| `/tools help`       | Obtener información sobre los comandos de utilidad   |
+| `/tools anagram`    | Formar una palabra con ciertas letras                |
+| `/tools button`     | Crear un botón                                       |
+| `/tools calculator` | Calcular una suma                                    |
+| `/tools decode`     | Decodificar código binario a texto                   |
+| `/tools emojify`    | Convertir texto en emojis                            |
+| `/tools encode`     | Codificar texto a código binario                     |
+| `/tools enlarge`    | Aumentar el tamaño de un emoji                       |
+| `/tools mcskin`     | Ver la skin de un usuario de Minecraft               |
+| `/tools mcstatus`   | Ver el estado de un servidor de Minecraft            |
+| `/tools pwdgen`     | Generar una contraseña                               |
+| `/tools qrcode`     | Enviar una foto de código QR del texto proporcionado |
+| `/tools remind`     | Establecer un recordatorio                           |
+| `/tools sourcebin`  | Subir código a Sourcebin                             |
+| `/tools url`        | Crear una URL corta                                  |
+| `/tools review`     | Escribir una reseña                                  |

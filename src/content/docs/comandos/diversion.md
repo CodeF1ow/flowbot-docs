@@ -1,21 +1,14 @@
 ---
-title: 😂 Diversion
-description: Comados Diversion.
+title: 😂 Diversión
+description: Comandos de Diversión.
 ---
 
-### Configuración Diversion
+### Configuración de Diversión
 
-| Slash        | Descripción                               |
-| ------------ | ----------------------------------------- |
-| `/animal`    | Muestra una imagen de un animal aleatorio |
-| `/facts`     | Obtiene un dato aleatorio sobre un animal |
-| `/flip coin` | Lanza una moneda                          |
-| `/flip text` | Invierte el mensaje proporcionado         |
-| `/snake`     | Iniciar un juego de la serpiente          |
-| `/meme`      | Obtener un meme aleatorio                 |
-| `/together`  | Discord together                          |
-
-**Juegos disponibles:**
-
-
-`askaway` `awkword` `betrayal` `bobble` `checkers` `chess` `chessdev` `doodlecrew` `fishing` `land` `lettertile` `meme` `ocho` `poker` `puttparty` `puttpartyqa` `sketchheads` `sketchyartist` `spellcast` `wordsnack` `youtube` `youtubedev`
+| Slash         | Descripción                                                    |
+| ------------- | -------------------------------------------------------------- |
+| `/fun help`   | Obtener información sobre los comandos de diversión            |
+| `/fun meme`   | Ver todos los comandos de memes disponibles en el bot          |
+| `/fun user`   | Ver todos los comandos de diversión relacionados con usuarios  |
+| `/fun text`   | Ver todos los comandos de texto divertidos en el bot           |
+| `/fun extra`  | Ver todos los comandos extra de diversión en el bot            |
