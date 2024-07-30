@@ -5,9 +5,7 @@ description: Admin commands
 
 ### Configuración Admin
 
-<alert type="danger">
-Estos comandos solo pueden ser utilizados por miembros que tengan permiso ADMINISTRAR_SERVIDOR
-</alert>
+Estos comandos solo pueden ser utilizados por miembros que tengan permiso **ADMINISTRAR_SERVIDOR**
 
 ### Establecer Prefijo
 
@@ -21,13 +19,11 @@ Estos comandos solo pueden ser utilizados por miembros que tengan permiso ADMINI
 
 ### Automoderación
 
-<alert type="info">
 Por defecto, los eventos de auto moderación se ignoran para los miembros que tienen los siguientes permisos ya que se les considera moderadores de canal/servidor:
 
 `KICK_MEMBERS`, `BAN_MEMBERS`, `MANAGE_GUILD`, `MANAGE_MESSAGES`
 
 `!automodconfig debug on` anula esta configuración por defecto
-</alert>
 
 |                                     |                                                                                  |
 | ------------------------------------|--------------------------------------------------------------------------------- |
@@ -56,9 +52,7 @@ Por defecto, los eventos de auto moderación se ignoran para los miembros que ti
 | `!automod links` **\<on\|off>**          | Permitir o prohibir el envío de enlaces en mensajes                                           |
 | `!automod maxlines` **\<cantidad>**      | Establecer el máximo de líneas permitidas por mensaje                                         |
 
-<alert type="warning">
 Cada vez que un miembro intenta romper la regla automatizada, recibe un strike. Después de recibir el número máximo de strikes (por defecto 10), se realiza la acción de moderación (por defecto TIMEOUT) en ellos.
-</alert>
 
 ### Contadores de canales
 
@@ -79,13 +73,11 @@ Cada vez que un miembro intenta romper la regla automatizada, recibe un strike. 
 * **Descripción**: Activar o desactivar el registro de moderación
 * **Uso**: `!modlog <canal|off>`
 
-<alert type="info">
 El registro de moderación permite el registro de todas las acciones de moderación y los eventos de auto moderación
-</alert>
 
 ### Traducciones de banderas
 
-_Habilitar esta función permitirá a los miembros simplemente reaccionar a cualquier mensaje con un emoji de bandera del país, traduciendo el contenido del mensaje a la lengua regional_
+Habilitar esta función permitirá a los miembros simplemente reaccionar a cualquier mensaje con un emoji de bandera del país, traduciendo el contenido del mensaje a la lengua regional
 
 * **Descripción**: Configurar la traducción de la bandera en el servidor
 * **Uso**: `!flagtr <on|off>`
