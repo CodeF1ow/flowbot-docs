@@ -1,12 +1,12 @@
 ---
-title: Admin
+title: ⚙️ Admin
 description: Admin commands
 ---
 
-# ⚙️ Admin
+### Configuración Admin
 
 <alert type="danger">
-Estos comandos solo pueden ser utilizados por miembros que tengan permiso **ADMINISTRAR_SERVIDOR**
+Estos comandos solo pueden ser utilizados por miembros que tengan permiso ADMINISTRAR_SERVIDOR
 </alert>
 
 ### Establecer Prefijo

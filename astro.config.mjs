@@ -18,6 +18,13 @@ export default defineConfig({
 						{ label: 'Anime', slug: 'comandos/anime'},
 						{ label: 'Diversion', slug: 'comandos/diversion'},
 						{ label: 'Economia', slug: 'comandos/economia'},
+						{ label: 'Estadisticas', slug: 'comandos/estadisticas'},
+						{ label: 'Imagenes', slug: 'comandos/imagen'},
+						{ label: 'Informacion', slug: 'comandos/informacion'},
+						{ label: 'Invitaciones', slug: 'comandos/invitaciones'},
+						{ label: 'Moderación', slug: 'comandos/moderacion'},
+						{ label: 'Musica', slug: 'comandos/musica'},
+						{ label: 'Social', slug: 'comandos/social'},
 					],
 				},
 				{

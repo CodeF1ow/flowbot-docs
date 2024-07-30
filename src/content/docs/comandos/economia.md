@@ -1,16 +1,16 @@
 ---
-title: Economia
+title: 💰 Economia
 description: Comandos de Economia
 ---
 
-# 🪙 Economia
+### ​ Configuración de economia
 
-| Comando                                   | Slash              | Descripción                             |
-| ----------------------------------------- | ------------------ | --------------------------------------- |
-| **!bank balance**                         | **/bank balance**  | revisar tu balance de monedas           |
-| **!bank deposit \<cantidad>**             | **/bank deposit**  | depositar monedas en tu cuenta bancaria |
-| **!bank withdraw \<cantidad>**            | **/bank withdraw** | retirar monedas de tu cuenta bancaria   |
-| **!bank transfer \<miembro> \<cantidad>** | **/bank transfer** | transferir monedas a otro usuario       |
-| **!beg**                                  | **/beg**           | pedir limosna a alguien                 |
-| **!daily**                                | **/daily**         | recibir una bonificación diaria         |
-| **!gamble \<cantidad>**                   | **/gamble**        | probar tu suerte apostando              |
+| Slash            | Descripción                             |
+| -----------------| --------------------------------------- |
+| `/bank balance`  | Revisar tu balance de monedas           |
+| `/bank deposit`  | Depositar monedas en tu cuenta bancaria |
+| `/bank withdraw` | Retirar monedas de tu cuenta bancaria   |
+| `/bank transfer` | Transferir monedas a otro usuario       |
+| `/beg`           | Pedir limosna a alguien                 |
+| `/daily`         | Recibir una bonificación diaria         |
+| `/gamble`        | Probar tu suerte apostando              |

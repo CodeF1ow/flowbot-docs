@@ -1,16 +1,16 @@
 ---
-title: Anime
+title: 🔞 Anime
 description: Comandos de Anime.
 ---
 
-# 🔞 Anime
+### Configuración Anime
 
 #### Reacciones
 
-* **Descripción**: reacciones de anime
 * **Uso del comando**: `!anime <reacción>`
 * **Uso con Slash**: `/anime`
 * **Tiempo de espera**: 5 segundos
+* **Descripción**: reacciones de anime
 
 |          |          |            |
 | -------- | -------- | ---------- |

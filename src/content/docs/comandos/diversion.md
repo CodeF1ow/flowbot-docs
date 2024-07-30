@@ -1,21 +1,19 @@
 ---
-title: Diversion
+title: 😂 Diversion
 description: Comados Diversion.
 ---
 
-# 😂 Diversion
+### Configuración Diversion
 
-
-
-| Comando                 | Slash          | Descripción                               |
-| ----------------------- | -------------- | ----------------------------------------- |
-| `!animal` **\<tipo>**     | `/animal`    | muestra una imagen de un animal aleatorio |
-| `!facts` **\<animal>**    | `/facts`     | obtiene un dato aleatorio sobre un animal |
-| `!flip coin`          | `/flip coin` | lanza una moneda                          |
-| `!flip text` **\<texto>** | `/flip text` | invierte el mensaje proporcionado         |
-| `!snake`              | `/snake`     | iniciar un juego de la serpiente          |
-| `!meme` **\[categoría]**  | `/meme`      | obtener un meme aleatorio                 |
-| `!together` **\[juego]**  | `/together`  | discord together                          |
+| Slash        | Descripción                               |
+| ------------ | ----------------------------------------- |
+| `/animal`    | Muestra una imagen de un animal aleatorio |
+| `/facts`     | Obtiene un dato aleatorio sobre un animal |
+| `/flip coin` | Lanza una moneda                          |
+| `/flip text` | Invierte el mensaje proporcionado         |
+| `/snake`     | Iniciar un juego de la serpiente          |
+| `/meme`      | Obtener un meme aleatorio                 |
+| `/together`  | Discord together                          |
 
 **Juegos disponibles:**
 
