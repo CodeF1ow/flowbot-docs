@@ -7,7 +7,7 @@ export default defineConfig({
 		starlight({
 			title: 'FlowBot Docs',
 			social: {
-				github: 'https://github.com/withastro/starlight',
+				github: 'https://github.com/CodeF1ow/flowbot-docs',
 			},
 			sidebar: [
 				{
