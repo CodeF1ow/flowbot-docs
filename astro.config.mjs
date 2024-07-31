@@ -13,7 +13,7 @@ export default defineConfig({
 				{
 					label: 'Comandos',
 					items: [
-						// Each item here is one entry in the navigation menu.
+						// Cada elemento aquí es una entrada en el menú de navegación.
 						{ label: 'Automod', slug: 'comandos/automod' },
 						{ label: 'Diversion', slug: 'comandos/diversion'},
 						{ label: 'Economia', slug: 'comandos/economia'},
